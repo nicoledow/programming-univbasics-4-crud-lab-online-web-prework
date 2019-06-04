@@ -6,8 +6,9 @@ end
 def create_an_array
   full_arr = []
   4.times do 
-    full_arr << 
+    full_arr << rand(10)
   end
+  full_arr
 end
 
 def add_element_to_end_of_array(array, element)
