@@ -4,7 +4,10 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  full_arr = []
+  4.times do 
+    full_arr << 
+  end
 end
 
 def add_element_to_end_of_array(array, element)
