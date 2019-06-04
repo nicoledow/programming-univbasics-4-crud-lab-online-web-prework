@@ -1,5 +1,6 @@
 def create_an_empty_array
-  
+  new_arr = []
+  new_arr
 end
 
 def create_an_array
